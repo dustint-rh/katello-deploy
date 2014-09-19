@@ -116,6 +116,12 @@ if options.has_key?(:devel)
   system('yum -y install rubygem-kafo')
   system('yum -y install katello-installer')
 else
+  system('yum -y install wget')
+  system('yum -y install curl')
+  system('yum -y install vim')
+  system('./koji-download http://koji.katello.org/koji/buildinfo?buildID=13226')
+  system('./koji-download http://koji.katello.org/koji/taskinfo?taskID=157102')
+
   system('yum -y install katello')
 end
 
