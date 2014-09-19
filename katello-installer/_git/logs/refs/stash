@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 0991d375a653d458f36c7e60d75177747863325a dustin <dstywho@gmail.com> 1399644549 -0400	WIP on devel_missing_rhsm_config_params: 308b6a8 debug
+0991d375a653d458f36c7e60d75177747863325a 4bbce8f5af58665dbc4f6d09f7b56d925f4b0a6b Dustin Tsang <dtsang@redhat.com> 1402003845 -0400	WIP on devel_missing_rhsm_config_params: 51736aa clean up logic
+4bbce8f5af58665dbc4f6d09f7b56d925f4b0a6b d8b89dfa0dbee8343f1f9164ef0c577820774ebd Dustin Tsang <dtsang@redhat.com> 1403794787 -0400	WIP on (no branch): 82fa2d9 Merge pull request #68 from jmontleon/update-pulp-katello-pkg-name
+d8b89dfa0dbee8343f1f9164ef0c577820774ebd e4e3ea41b18bc0ef8d6b6155974bdfe9afe24d91 Dustin Tsang <dtsang@redhat.com> 1403836735 -0400	WIP on cert_name_in_katello_conf: 2197018 Fixes #4650,6359 - sets consumer rpm katello.yml
+e4e3ea41b18bc0ef8d6b6155974bdfe9afe24d91 6b3c687196eed103bbc69f63f3549021fa2b34a1 Dustin Tsang <dtsang@redhat.com> 1409789230 -0400	WIP on (no branch): 4f84701 Merge pull request #103 from waldenraines/7077

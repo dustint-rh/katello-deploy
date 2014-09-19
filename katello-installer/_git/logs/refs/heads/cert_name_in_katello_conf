@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 05abe85e7d3fe32ceb704a1bca876373149ab94e Dustin Tsang <dtsang@redhat.com> 1403795900 -0400	branch: Created from HEAD
+05abe85e7d3fe32ceb704a1bca876373149ab94e dbad10ae364ac0b7bc8cb7df0fa5d0f0dfd15793 Dustin Tsang <dtsang@redhat.com> 1403795907 -0400	commit: Fixes #4650 - sets consumer rpm in katello.yml
+dbad10ae364ac0b7bc8cb7df0fa5d0f0dfd15793 6caab0183c37503e5c73c458658da9cf4b7cda8a Dustin Tsang <dtsang@redhat.com> 1403796393 -0400	commit (amend): Fixes #4650,6359 - sets consumer rpm katello.yml
+6caab0183c37503e5c73c458658da9cf4b7cda8a 17c70c04a964cbf7ed6412e7c752669c6296bb99 Dustin Tsang <dtsang@redhat.com> 1403836677 -0400	commit (amend): Fixes #4650,6359 - sets consumer rpm katello.yml
+17c70c04a964cbf7ed6412e7c752669c6296bb99 2197018ad344007183d0307f4f3b01ac3173c774 Dustin Tsang <dtsang@redhat.com> 1403836699 -0400	commit (amend): Fixes #4650,6359 - sets consumer rpm katello.yml
+2197018ad344007183d0307f4f3b01ac3173c774 a9778ed6f536dce496012b0853cd1b66290a1c80 Dustin Tsang <dtsang@redhat.com> 1403836740 -0400	commit (amend): Fixes #4650,6359 - sets consumer rpm katello.yml
+a9778ed6f536dce496012b0853cd1b66290a1c80 bdf37efcbc5883bd5ba29e3fe3bf24cc965b837b Dustin Tsang <dtsang@redhat.com> 1403836769 -0400	commit (amend): Fixes #4650,6359 - sets consumer rpm katello.yml
+bdf37efcbc5883bd5ba29e3fe3bf24cc965b837b 12887e9a074c112b41ed6399b6408a790099ceb4 Dustin Tsang <dtsang@redhat.com> 1403836795 -0400	commit (amend): Fixes #4650,6359 - sets consumer rpm katello.yml
+12887e9a074c112b41ed6399b6408a790099ceb4 e28936af84bb24a7280c26b0c7beda7e9659f63c Dustin Tsang <dtsang@redhat.com> 1403836819 -0400	commit (amend): Fixes #4650,#6359 - sets consumer rpm katello.yml
+e28936af84bb24a7280c26b0c7beda7e9659f63c fea14e7df4cba3b6e926985185a0e0166ffdfdbf Dustin Tsang <dtsang@redhat.com> 1403836827 -0400	commit (amend): Fixes #4650,#6359 - sets consumer rpm katello.yml
+fea14e7df4cba3b6e926985185a0e0166ffdfdbf e2975c0674aba22c8f148d29af0fe861e1787159 Dustin Tsang <dtsang@redhat.com> 1405461481 -0400	merge origin/master: Fast-forward

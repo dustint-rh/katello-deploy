@@ -1,0 +1,17 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	url = https://github.com/Katello/katello-installer.git
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[remote "dustint"]
+	url = githubrh:dustint-rh/katello-installer.git
+	fetch = +refs/heads/*:refs/remotes/dustint/*
+[branch "devel_missing_rhsm_config_params"]
+	remote = dustint
+	merge = refs/heads/devel_missing_rhsm_config_params

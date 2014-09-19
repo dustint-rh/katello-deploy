@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 308b6a857aba184bd2b00a79317da9173abe235f dustin <dstywho@gmail.com> 1399596717 -0400	branch: Created from refs/remotes/dustint/devel_missing_rhsm_config_params
+308b6a857aba184bd2b00a79317da9173abe235f b1e4fd9655a7b24da664bedf63a96b78effd75e1 dustin <dstywho@gmail.com> 1399644594 -0400	commit: pass params to class
+b1e4fd9655a7b24da664bedf63a96b78effd75e1 8502aa61b06e0620a3a83b888a04e84913ba1bb6 dustin <dstywho@gmail.com> 1399644964 -0400	commit: call params from devel_installer init.pp
+8502aa61b06e0620a3a83b888a04e84913ba1bb6 efea722a0aa0daf8312d833e2956d88379a739a2 dustin <dstywho@gmail.com> 1399645433 -0400	commit: restore lots of files
+efea722a0aa0daf8312d833e2956d88379a739a2 bfd8570ac87cae8750683dd677d7f4a3d5105b7c Dustin Tsang <dtsang@redhat.com> 1399831571 -0400	commit: clean up logic
+bfd8570ac87cae8750683dd677d7f4a3d5105b7c 51736aa4fd441eeb9a25f4d5730759e9cb6f109c Dustin Tsang <dtsang@redhat.com> 1399832546 -0400	commit (amend): clean up logic
+51736aa4fd441eeb9a25f4d5730759e9cb6f109c 82fa2d945ec1d27b67f13c393bbd226d54062d32 Dustin Tsang <dtsang@redhat.com> 1402003871 -0400	rebase finished: refs/heads/devel_missing_rhsm_config_params onto 82fa2d945ec1d27b67f13c393bbd226d54062d32
+82fa2d945ec1d27b67f13c393bbd226d54062d32 51736aa4fd441eeb9a25f4d5730759e9cb6f109c Dustin Tsang <dtsang@redhat.com> 1402003871 -0400	rebase: updating HEAD
